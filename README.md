@@ -1,5 +1,9 @@
 # sillytavern-railway
 
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/sillytavern-or-just-updated-ai-character?referralCode=Z1xivh&utm_medium=integration&utm_source=template&utm_campaign=generic)
+
+**Deploy on Railway:** [SillyTavern template](https://railway.com/deploy/sillytavern-or-just-updated-ai-character?referralCode=Z1xivh&utm_medium=integration&utm_source=template&utm_campaign=generic)
+
 A hardened Railway wrapper for [SillyTavern](https://github.com/SillyTavern/SillyTavern) — the
 open-source AI chat / roleplay frontend — built on the upstream Railway image
 [`ghcr.io/null2264/st-railway`](https://github.com/null2264/st-railway) and pinned to
